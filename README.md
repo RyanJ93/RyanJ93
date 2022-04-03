@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://a76e-151-18-225-40.ngrok.io/github_logo.png?raw=true" alt="Logo" />
+<img src="images/github_logo.png?raw=true" alt="Logo" />
 </p>
 <br />
 
