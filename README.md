@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.enricosola.dev/public/github_logo.png" alt="Logo" />
+<img src="https://www.enricosola.dev/public/github_logo.png?raw=true" alt="Logo" />
 </p>
 
 ### 🖐 Hey there, I'm Enrico
