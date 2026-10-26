@@ -5,18 +5,16 @@
 
 ### 🖐 Hey there, I'm Enrico
 
-I'm an Italian software engineer who loves to build projects and experiment with cutting-edge technologies. <br />
-I'm a greedy coffee/tea drinker, sushi and pizza eater as well as a heavy music listener (and vinyl collector). <br />
-I spend most of my free time playing online video games, and I really love nerdy stuff, such as video games and anime. <br />
-My other hobbies include digital photography, piano, and language learning (Russian and Japanese).
+I’m an Italian software engineer who loves building software, exploring new technologies, and experimenting with new ideas.
 
-### 🧐 Some more things about me
+I’m a coffee and tea enthusiast, a sushi and pizza lover, and an avid music listener (and vinyl collector!). Outside of coding, I enjoy online and retro gaming, digital photography, playing the piano (beginner level), building LEGO sets, spending time with my cats, and learning languages — currently Russian and Japanese.
 
-- 💻 Programming languages: JavaScript (main), PHP, TypeScript, Python, Java, and few others.
-- 🎮 Favourite games: League of Legends, Wild Rift, CoD, Genshin Impact, Minecraft.
-- 🎧 Favourite kind of music: rock, metal, but also electronic music and Nightcore.
-- 🖥 Coding environment: MacBook Pro + dark mode + music + coffee.
-- 🍣 Favourite foods: sushi, pizza, and Lasagne.
+### 🧐 A little more about me
+
+- 💻 Languages: JavaScript, TypeScript, Java, PHP, Python, and a few others.
+- 🛠️ Frameworks & technologies: Node.js, Spring Boot, React, Next.js, and Laravel.
+- 🎮 Favourite games: League of Legends, Wild Rift, CoD, Genshin Impact, and Minecraft.
+- 🎧 Favourite genres: Rock, metal, electronic music, and Nightcore.
+- 🍣 Food I can never say no to: Sushi, pizza, and lasagne.
 
 Visit [my personal website](https://www.enricosola.dev) to find out more information about me, I'll wait for you!
-
